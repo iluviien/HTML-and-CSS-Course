@@ -1,4 +1,11 @@
-.bold {
-    color: rgb(68, 0, 255);
+.blog-post-title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
+.blog-post-subtitle{
+    color: red;
+}
+#blue{
+    color: rgb(44, 135, 238);
+    font-weight: bold;
 }
